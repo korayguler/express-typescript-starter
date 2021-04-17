@@ -14,30 +14,19 @@ $ cd express-typescript-starter
 
 ```bash
 npm install
-// or
-yarn
+
 ```
 
 ### Compiles and hot-reloads for development
 
 ```
 npm run dev
-// or
-yarn dev
+
 ```
 
 ### Compiles and minifies for production
 
 ```
 npm run build
-// or
-yarn build
-```
 
-### Packages
-
-```
-- Express.js
-- Typescript
-- Nodemon
 ```
